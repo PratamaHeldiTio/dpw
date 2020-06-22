@@ -4,4 +4,6 @@
 2. buka file functions.php pada folder dpw, lalu sesuaikan konfigurasi database sesuai database kalian
 3. usahakan tidak merubah nama file dan nama folder untuk menghindari error
 4. jika anda merubah nama file atau folder sesuaikan pada dengan error yang terjadi
-5. happy enjoy
+5. pastikan internet anda aktif agar tampilan tidak rusak ataupun bermasalah
+6. happy enjoy
+
