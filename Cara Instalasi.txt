@@ -1,10 +1,10 @@
 # Cara Instatasi
 
-1. letakan folder pada folder htdocs pada local server anda
-2. import file dpw.sql di folder dpw ke localhost anda
-3. buka file functions.php pada folder dpw, lalu sesuaikan konfigurasi database sesuai database kalian
-4. usahakan tidak merubah nama file dan nama folder untuk menghindari error
-5. jika anda merubah nama file atau folder sesuaikan pada dengan error yang terjadi
-6. pastikan internet anda aktif agar tampilan tidak rusak ataupun bermasalah
-7. happy enjoy
-
+- jika anda dowmload pastikan foldernya bernama dpw, jika namanya beda silahkan ganti nama folder menjadi dpw
+- letakan folder pada htdocs local server anda
+- import file dpw.sql di folder dpw ke localhost anda
+- buka file functions.php pada folder dpw, lalu sesuaikan konfigurasi database sesuai database kalian
+- usahakan tidak merubah nama file dan nama folder untuk menghindari error
+- jika anda merubah nama file atau folder sesuaikan pada dengan error yang terjadi
+- pastikan internet anda aktif agar tampilan tidak rusak ataupun bermasalah
+- happy enjoy
