@@ -1,6 +1,6 @@
 # simple-crud-library
 
-./Cara Instatasi
+## Cara Instatasi
 
 - jika anda dowmload pastikan foldernya bernama dpw, jika namanya beda silahkan ganti nama folder menjadi dpw
 - letakan folder pada htdocs local server anda
